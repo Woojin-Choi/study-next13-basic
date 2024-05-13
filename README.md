@@ -4,10 +4,12 @@ This project was bootstrapped with Create Next App.
 
 ## How to run in development mode
 
-In the project directory,
+In the `study-next` project directory,
 
-### 1. make `.env.local` file
+### 1. type `npm install`
 
-### 2. type `npm run api`
+### 2. change `.env.local.example` to `.env.local`
 
-### 3. type `npm run dev`
+### 3. type `npm run api`
+
+### 4. type `npm run dev`
